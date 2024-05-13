@@ -1,2 +1,2 @@
-HOST-KEYWORD,v2ex,Others
-HOST-SUFFIX,imgur.com,Others
+HOST-KEYWORD,v2ex,Misc
+HOST-SUFFIX,imgur.com,Misc
